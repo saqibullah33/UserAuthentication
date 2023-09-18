@@ -1,0 +1,1 @@
+https://device.sso.us-east-1.amazonaws.com/?user_code=MFVV-VBZH
